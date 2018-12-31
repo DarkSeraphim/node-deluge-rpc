@@ -1,0 +1,11 @@
+{
+  "name": "http-torrent-js",
+  "version": "1.0.0",
+  "description": "Node.js client for DelugeRPC",
+  "main": "index.js",
+  "author": "DarkSeraphim",
+  "license": "MIT",
+  "dependencies": {
+    "bencode": "^2.0.0"
+  }
+}
